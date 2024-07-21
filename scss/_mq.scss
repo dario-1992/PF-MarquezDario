@@ -13,6 +13,10 @@
         .movinglogo{
             display: none;
         }
+        .videos{
+            background-color: $color-secundario;
+            background-image: none;
+        }
     }
 @media (max-width: 400px) {
         .ampmain {

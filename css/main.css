@@ -302,6 +302,10 @@
   .movinglogo {
     display: none;
   }
+  .videos {
+    background-color: #191919;
+    background-image: none;
+  }
 }
 @media (max-width: 400px) {
   .ampmain {
